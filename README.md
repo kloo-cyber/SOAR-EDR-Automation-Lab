@@ -53,3 +53,7 @@ The workflow follows this general process:
 6. Tines evaluates the response using conditional logic.
 7. If Yes is selected, Tines sends an authenticated request to LimaCharlie to isolate the endpoint.
 8. If No is selected, Tines sends a Slack message confirming that isolation was not performed.
+
+<img width="696" height="765" alt="Fig 1 Workflow Diagram" src="https://github.com/user-attachments/assets/2d575b4b-caf5-4f39-9982-46b94d12993b" />
+
+*Figure 1: Workflow Diagram*
