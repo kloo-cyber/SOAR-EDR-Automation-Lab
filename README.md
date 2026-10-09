@@ -54,7 +54,7 @@ The workflow follows this general process:
 7. If Yes is selected, Tines sends an authenticated request to LimaCharlie to isolate the endpoint.
 8. If No is selected, Tines sends a Slack message confirming that isolation was not performed.
 
-<img width="696" height="765" alt="Fig 1 Workflow Diagram" src="https://github.com/user-attachments/assets/2d575b4b-caf5-4f39-9982-46b94d12993b" />
+<img width="731" height="701" alt="Fig 1 Workflow Diagram" src="https://github.com/user-attachments/assets/ca54d1af-48df-441c-a53e-fe016553b440" />
 
 *Figure 1: Workflow Diagram*
 <br>
@@ -82,5 +82,19 @@ Tines sends an automated Slack notification containing key detection and endpoin
 Tines sends an automated email containing the same key detection details from LimaCharlie for analyst review and incident notification.
 
 <br>
+<img width="553" height="484" alt="Fig 5 User Prompt" src="https://github.com/user-attachments/assets/c2317d2e-2d8c-4ebe-b7a1-3f9a58f0ed23" />
+
+*Figure 5: Analyst Isolation Prompt*
+<br>
+The Tines User Prompt presents the detection details to the analyst and provides a Yes or No decision to determine whether the affected endpoint should be isolated.
+
+<br>
+<img width="1324" height="578" alt="Fig 6 No Isolation Response" src="https://github.com/user-attachments/assets/c7b24562-1bd9-494f-aa99-7a9c6afee5d6" />
+
+*Figure 6: No Isolation Response*
+<br>
+After the analyst selects No in the Tines User Prompt, the workflow sends a Slack notification and email confirming that the endpoint was not isolated.
+
+
 
 
