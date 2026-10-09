@@ -57,3 +57,10 @@ The workflow follows this general process:
 <img width="696" height="765" alt="Fig 1 Workflow Diagram" src="https://github.com/user-attachments/assets/2d575b4b-caf5-4f39-9982-46b94d12993b" />
 
 *Figure 1: Workflow Diagram*
+<br>
+The lab environment consists of a Windows endpoint monitored by LimaCharlie EDR, Tines SOAR for workflow automation, and Slack and email for analyst notifications.
+
+<br>
+<img width="1908" height="865" alt="Fig 2 Tines Detection" src="https://github.com/user-attachments/assets/c33bc099-5e13-461e-b673-7a849ec60d36" />
+
+*Figure 2: LimaCharlie Endpoint Telemetry*
