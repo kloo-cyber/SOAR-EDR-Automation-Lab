@@ -64,3 +64,23 @@ The lab environment consists of a Windows endpoint monitored by LimaCharlie EDR,
 <img width="1908" height="865" alt="Fig 2 Tines Detection" src="https://github.com/user-attachments/assets/c33bc099-5e13-461e-b673-7a849ec60d36" />
 
 *Figure 2: LimaCharlie Endpoint Telemetry*
+<br>
+LimaCharlie displays process, network, and system activity collected from the Windows target endpoint.
+
+<br>
+<img width="1388" height="660" alt="Fig 3 Slack Detection Alert" src="https://github.com/user-attachments/assets/ac94d490-507b-4ca2-92be-c9551e439980" />
+
+*Figure 3: Slack Detection Alert*
+<br>
+Tines sends an automated Slack notification containing key detection and endpoint details received from LimaCharlie.
+
+<br>
+<img width="1511" height="418" alt="Fig 4 Email Detection Alert" src="https://github.com/user-attachments/assets/82d751b2-879f-4824-b92b-2c211353a4bb" />
+
+*Figure 4: Email Detection Alert*
+<br>
+Tines sends an automated email containing the same key detection details from LimaCharlie for analyst review and incident notification.
+
+<br>
+
+
