@@ -108,6 +108,7 @@ Command Prompt confirms successful network connectivity before isolation and rep
 <br>
 <img width="1548" height="454" alt="Fig 9 Endpoint Isolation Status" src="https://github.com/user-attachments/assets/585c0caf-1ded-4772-ba13-a55f8b8dddad" />
 
+*Figure 9: LimaCharlie Endpoint Isolation Status*
 <br>
 LimaCharlie confirms the Windows endpoint is isolated following the analyst-approved containment action.
 
