@@ -95,6 +95,23 @@ The Tines User Prompt presents the detection details to the analyst and provides
 <br>
 After the analyst selects No in the Tines User Prompt, the workflow sends a Slack notification and email confirming that the endpoint was not isolated.
 
+<br>
+<img width="480" height="247" alt="Fig 7 Endpoint Isolation Email" src="https://github.com/user-attachments/assets/d80bda13-508d-4e41-881d-8375ba585daa" />
 
+*Figure 7: Endpoint Isolation Confirmation*
+<br>
+After the analyst selects Yes, Tines sends the isolation request to LimaCharlie and notifies the analyst that the endpoint was successfully isolated.
 
+<br>
+<img width="618" height="634" alt="Fig 8 Network Isolation Verification" src="https://github.com/user-attachments/assets/22e13f59-5777-40f3-bed4-66d7b2489778" />
+
+*Figure 8: Network Isolation Verification*
+<br>
+Command Prompt confirms successful network connectivity before isolation and repeated general failures after the endpoint is isolated
+
+<br>
+<img width="1548" height="454" alt="Fig 9 Endpoint Isolation Status" src="https://github.com/user-attachments/assets/585c0caf-1ded-4772-ba13-a55f8b8dddad" />
+
+<br>
+LimaCharlie confirms the Windows endpoint is isolated following the analyst-approved containment action.
 
