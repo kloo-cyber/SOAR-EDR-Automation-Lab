@@ -16,14 +16,11 @@ The workflow receives security detections, sends notifications, presents an anal
 - Incident response
 - Webhook configuration
 - REST API integration
-- HTTP requests
-- JSON event processing
 - Conditional logic
 - API authentication
 - Slack integration
 - Email notification
 - Endpoint isolation
-- Troubleshooting API and workflow errors
 
 ---
 
@@ -37,7 +34,6 @@ The workflow receives security detections, sends notifications, presents an anal
 - REST APIs
 - Webhooks
 - JSON
-- HTTP requests
 
 ---
 
